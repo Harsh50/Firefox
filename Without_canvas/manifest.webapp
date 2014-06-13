@@ -1,0 +1,6 @@
+{
+  "version": "0.1",
+  "name": "Animation without animation",
+  "description": "Making an element move along a given path",
+  "launch_path": "/without_canvas.html"
+}

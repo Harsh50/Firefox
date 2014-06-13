@@ -1,0 +1,6 @@
+{
+  "version": "0.1",
+  "name": "Animation",
+  "description": "A staircase type animation",
+  "launch_path": "/canvas.html"
+}
